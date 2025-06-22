@@ -1,0 +1,62 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+
+# VS Code
+.vscode/
+
+# Environments
+env/
+venv/
+ENV/
+.venv/
+*.env
+
+# Jupyter and IPython
+.ipynb_checkpoints
+
+# Logs and debug info
+*.log
+*.log.*
+debug.log
+
+# CSV and Excel output
+*.csv
+*.xls
+*.xlsx
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Selenium WebDriver caches
+selenium-screenshots/
+selenium-cache/
+
+# Database files
+*.sqlite3
+*.db
+*.sql
+
+# MySQL dumps
+*.sql
+
+# WebDriver Manager cache (if using webdriver-manager)
+~/.wdm/
+
+# pycache in nested folders
+**/__pycache__/
+
+# IDE files
+.idea/
+*.iml
+
+# Compiled files
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
